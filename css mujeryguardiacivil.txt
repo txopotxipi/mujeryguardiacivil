@@ -1,161 +1,18 @@
-<!DOCTYPE HTML>
-<html lang="es">
+<!DOCTYPE HTML><html lang=es><script src="https://www.googletagmanager.com/gtag/js?id=G-JCJF55E8L0"async></script><script>function gtag(){dataLayer.push(arguments)}window.dataLayer=window.dataLayer||[],gtag("js",new Date),gtag("config","G-JCJF55E8L0")</script><script>function ajustarPosicionFondo(){var n=document.querySelector("#intro"),o=window.innerWidth,i=window.innerHeight,e=145/o*100,t=(1200<o?20:800<o?70:i<o?50:90)/i*100;n.style.backgroundPosition=e+"% "+t+"%"}window.addEventListener("resize",ajustarPosicionFondo),document.addEventListener("DOMContentLoaded",ajustarPosicionFondo)</script><script>function ajustarPosicionFondo(){var n=document.querySelector("#two"),o=window.innerWidth,i=window.innerHeight,e=10/o*100,t=(1200<o?20:800<o?70:i<o?50:90)/i*100;n.style.backgroundPosition=e+"% "+t+"%"}window.addEventListener("resize",ajustarPosicionFondo),document.addEventListener("DOMContentLoaded",ajustarPosicionFondo)</script><title>Exposición Mujer y Guardia Civil</title><meta charset=utf-8><meta content="La exposición Mujer y Guardia Civil trata de dar visibilidad a la mujer en todos los ámbitos de la sociedad."name=description><link href=iconomg/estilomg.css rel=stylesheet><link href=iconomg/demo-files/demo.css rel=stylesheet><meta content="width=device-width,initial-scale=1,user-scalable=no"name=viewport><meta content=2pIHP8oSI0_3DgX77WMpe_lFbb1GkLmDUpl2FamDEi4 name=google-site-verification><meta content="IE=edge"http-equiv=X-UA-Compatible><link href=assets/css/main.css rel=stylesheet><link href=assets/css/style.css rel=stylesheet><link href=favicon.png rel="shortcut icon"><noscript><link href=assets/css/noscript.css rel=stylesheet></noscript><link href=fontawesome-free-6.2.0-web/css/all.css rel=stylesheet><div id=particles-js style=position:fixed;top:0;left:0;width:100%;height:100%;pointer-events:none;z-index:9999></div><header class=is-preload id=header><div class=titulo><h1>Comisarias Exposición Mujer y Guardia Civil</h1></div><div class=titulonav><nav><ul><li><a href=#intro>Introducción</a><li><a href=#one>Qué hacemos</a><li><a href=#two>Quiénes somos</a><li><a href=#work>Nuestro trabajo</a><li class=dropdown><a href=javascript:void(0) class=dropbtn style=color:green><strong>Exposición</strong></a><div class=dropdown-content><a href=https://mujeryguardiacivil.great-site.net/exposici%C3%B3n/index.html target=_blank>Navaleno</a><a href=https://mujeryguardiacivil.great-site.net/Trabajos/index.html target=_blank>Soria</a><a href=https://mujeryguardiacivil.great-site.net/Burgos/index.html target=_blank>Burgos</a><a href=https://mujeryguardiacivil.great-site.net/Mujeres%20de%20Uniforme/index.html target=_blank>Huesca</a></div><li><a href=vídeos/index.html target=_blank style=color:#c4302b><strong>Youtube</strong></a><li><a href=#contact>Contacto</a></ul></nav></div></header><section class="main dark fullscreen style1"id=intro><div class=content><header><h2>Mujer y Guardia Civil</h2></header><p>Bienvenido/a la <strong>web de mujeryguardiacivil</strong><br> Página <strong>AUTORIZADA, NO OFICIAL.</strong> <br>No expresa opiniones oficiales ni representa a la Institución.</p><footer><a href=#one class="style2 button down">More</a></footer></div><div class=container-buttons><a href="https://www.facebook.com/profile.php?id=100067822862086"class=one target=_blank></a> <a href=https://twitter.com/mujerygc class=two target=_blank></a> <a href="https://www.instagram.com/mujer_y_guardia_civil/?hl=es"class=three target=_blank></a> <a href=https://www.tiktok.com/@mujeryguardiacivil class=four target=_blank></a><div class="contenedorbotones dropdown-vertical"><a href=javascript:void(0) class=icon-log_mujeryguardiacivil></a><div class=dropdowncontent><a href=https://mujeryguardiacivil.great-site.net/exposici%C3%B3n/index.html class=icon-log_mujeryguardiacivil target=_blank style=margin:.16em;background-color:#ad1519>Navaleno</a><a href=https://mujeryguardiacivil.great-site.net/Trabajos/index.html class=icon-log_mujeryguardiacivil target=_blank style=margin:.16em;background-color:#fabd00>Soria</a><a href=https://mujeryguardiacivil.great-site.net/Burgos/index.html class=icon-log_mujeryguardiacivil target=_blank style=margin:.16em;background-color:#fabd00>Burgos</a><a href=https://mujeryguardiacivil.great-site.net/Mujeres%20de%20Uniforme/index.html class=icon-log_mujeryguardiacivil target=_blank style=margin:.16em;background-color:#ad1519>Huesca</a></div></div><a href=vídeos/index.html class=six target=_blank></a> <a href=mailto:mujeryguardiacivil@hotmail.com class=five target=_blank></a></div></section><section class="from-right dark fullscreen main style2"id=one><div class="style2 box content"><header><h2>Qué hacemos</h2></header><p class=text-align-justify>Damos a conocer a la Guardia Civil a través de las profesionales del cuerpo con la exposición y las redes sociales de "Mujer y Guardia Civil".</div><a href=#two class="style2 button down anchored">Next</a></section><section class="from-left dark fullscreen main style2"id=two><div class="style2 box content"><header><h2>Quiénes somos</h2></header><p class=text-align-justify>Somos dos mujeres que ingresamos muy jóvenes en la Academia de la Guardia Civil,llenas de ilusión y con esperanzas de un futuro mejor.</div><a href=#work class="style2 button down anchored">Next</a></section><section class="main style3 primary"id=work><div class=content><header><h2>Nuestro trabajo</h2><p class="text-align-justify">En el año 2013 decidimos altruistamente dedicar parte de nuestro tiempo libre a dar visibilidad a las mujeres guardias civiles, al principio con la exposición itinerante "Mujer y Guardia Civil", y después a través de las redes sociales. Desde entonces y hasta noviembre de 2018 hemos llevado la exposición por diferentes lugares de España. Actualmente la exposición se puede visitar <b>gratuitamente</b> en Navaleno (Soria), Sala Histórica Mujeres de Uniforme de la Asociación Retógenes, primera y única a nivel mundial dedicada a las mujeres guardias civiles y militares. Podéis ver una pequeña muestra en el siguiente <a href="https://mujeryguardiacivil.great-site.net/exposici%C3%B3n1/index.html" target="_blank" style="color:red"><b>enlace</b></a>, y si os interesa también podéis acceder a los últimos trabajos de la exposición <a href="https://mujeryguardiacivil.great-site.net/Mujeres%20de%20Uniforme/index.html" target="_blank" style="color:red"><b>"Mujeres de Uniforme"</b></a> en el Palacio de Villahermosa (Huesca). Para más información y concertar visitas enviar correo pinchando aquí <a href="mailto:info@retogenes.es"><img src="images/thumbs/correo.png" alt="correo"></a>.</p></header><div class=gallery><article class=from-left><a href=images/fulls/05.jpg class="fit image"><img alt src=images/thumbs/05.jpg title="La reina Letizia con las comisarias de la Exposición Mujer y Guardia Civil"></a></article><article class=from-right><a href=images/fulls/01.jpg class="fit image"><img alt src=images/thumbs/01.jpg title="Exposición organizada con motivo del 30º aniversario del ingreso de la mujer en la Guardia Civil"></a></article><article class=from-left><a href=images/fulls/19.jpg class="fit image"><img alt src=images/thumbs/19.jpg title="Mujeres de la Guardia Civil charlando con la reina Letizia"></a></article><article class=from-right><a href=images/fulls/07.jpg class="fit image"><img alt src=images/thumbs/07.jpg title="La reina Letizia visita la Exposición Mujer y Guardia Civil"></a></article><article class=from-left><a href=images/fulls/08.jpg class="fit image"><img alt src=images/thumbs/08.jpg title="La reina charlando durante la visita a la exposición"></a></article><article class=from-right><a href=images/fulls/03.jpg class="fit image"><img alt src=images/thumbs/03.jpg title="Exposición en San José de Valderas, Alcorcón, Madrid"></a></article><article class=from-left><a href=images/fulls/06.jpg class="fit image"><img alt src=images/thumbs/06.jpg title="Exposición en San José de Valderas, Alcorcón, Madrid"></a></article><article class=from-right><a href=images/fulls/09.jpg class="fit image"><img alt src=images/thumbs/09.jpg title="Servicio Cinológico Guardia Civil"></a></article><article class=from-left><a href=images/fulls/11.jpg class="fit image"><img alt src=images/thumbs/11.jpg title="Cartel exposición"></a></article><article class=from-right><a href=images/fulls/12.jpg class="fit image"><img alt src=images/thumbs/12.jpg title="Escuadrón de la G.C."></a></article><article class=from-left><a href=images/fulls/13.jpg class="fit image"><img alt src=images/thumbs/13.jpg title="Comisarias en la exposición de Alcorcón"></a></article><article class=from-right><a href=images/fulls/10.jpg class="fit image"><img alt src=images/thumbs/10.jpg title="Primeros uniformes de la mujer G.C."></a></article><article class=from-left><a href=images/fulls/14.jpg class="fit image"><img alt src=images/thumbs/14.jpg title="Collage fotográfico"></a></article><article class=from-right><a href=images/fulls/20.jpg class="fit image"><img alt src=images/thumbs/20.jpg title="Comisaria en la exposición en el castillo de Carchuna, Granada"></a></article><article class=from-left><a href=images/fulls/15.jpg class="fit image"><img alt src=images/thumbs/15.jpg title="Exposición de San Juan del Puerto, Huelva"></a></article><article class=from-right><a href=images/fulls/21.jpg class="fit image"><img alt src=images/thumbs/21.jpg title="Comisaria en la exposición de San Juan del Puerto, Huelva"></a></article><article class=from-left><a href=images/fulls/17.jpg class="fit image"><img alt src=images/thumbs/17.jpg title="Exposición Mujer y Guardia Civil en Leganés"></a></article><article class=from-right><a href=images/fulls/18.jpg class="fit image"><img alt src=images/thumbs/18.jpg title="Comisaria Exposición Leganés"></a></article><article class=from-left><a href=images/fulls/02.jpg class="fit image"><img alt src=images/thumbs/02.jpg title="Exposición en los Corrales de Buelnas, Cantabria"></a></article><article class=from-right><a href=images/fulls/22.jpg class="fit image"><img alt src=images/thumbs/22.jpg title="Alumna en la academia de Baeza de la Guardia Civil"></a></article><article class=from-left><a href=images/fulls/16.jpg class="fit image"><img alt src=images/thumbs/16.jpg title="Comisaria en la sala de los Regulares en Navaleno"></a></article><article class=from-right><a href=images/fulls/23.jpg class="fit image"><img alt src=images/thumbs/23.jpg title="Exposición permanente en Navaleno, Soria"></a></article><article class=from-left><a href=images/fulls/04.jpg class="fit image"><img alt src=images/thumbs/04.jpg title="Exposición en San José de Valderas, Alcorcón, Madrid"></a></article><article class=from-right><a href=images/fulls/24.jpg class="fit image"><img alt src=images/thumbs/24.jpg title="Sala histórica de Muejeres Uniformadas en Navaleno, Soria"></a></article></div></div></section><section class="main style3 secondary"id=contact><div class=content><header><h2>Dinos lo que quieras.</h2><p>Tus valoraciones nos ayudarán a dar mayor visibilidad a la mujer en cualquier ámbito de la sociedad.</header><div class=box><form accept-charset=ISO-8859-1 action=contact.php method=post><div class=fields><div class="field half"><input name=nombre placeholder=Nombre pattern=^[a-zA-ZÀ-ÿ\u00f1\u00d1]+(\s*[a-zA-ZÀ-ÿ\u00f1\u00d1]*)*[a-zA-ZÀ-ÿ\u00f1\u00d1]+$ required></div><div class="field half"><input name=correo placeholder=Correo type=email></div><div class=field><textarea name=mensaje pattern=^[a-zA-ZÀ-ÿ\u00f1\u00d1]+(\s*[a-zA-ZÀ-ÿ\u00f1\u00d1]*)*[a-zA-ZÀ-ÿ\u00f1\u00d1]+$ placeholder=Mensaje required rows=6></textarea></div></div><ul class="actions special"><li><input type=submit value="Envía el mensaje"></ul></form></div></div></section><footer id=footer><ul class=icons><li><a href=https://twitter.com/mujerygc class="brands fa-2x icon fa-twitter"target=_blank><span class=label>Twitter</span></a><li><a href=https://www.facebook.com/Mujer-y-Guardia-Civil-423612444498014 class="brands fa-2x icon fa-facebook-f"target=_blank><span class=label>Facebook</span></a><li><a href="https://www.instagram.com/mujer_y_guardia_civil/?hl=es"class="brands fa-2x icon fa-instagram"target=_blank><span class=label>Instagram</span></a></ul><ul class=menu><h1>Puedes seguirnos en nuestras redes sociales</h1></ul></footer><script src=https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js></script><script src=assets/js/jquery.min.js></script><script src=assets/js/jquery.poptrox.min.js></script><script src=assets/js/jquery.scrolly.min.js></script><script src=assets/js/jquery.scrollex.min.js></script><script src=assets/js/browser.min.js></script><script src=assets/js/breakpoints.min.js></script><script src=assets/js/util.js></script><script src=assets/js/main.js></script><script src=assets/js/index.js></script><script src=demo-files/demo.js></script><script src=assets/js/nieve.js></script><script>
+function adjustImagesForiPad() {
+    var isiPad = /iPad/.test(navigator.platform) && navigator.maxTouchPoints > 0;
 
-<head>
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-JCJF55E8L0"></script>
-    <script>
-        function gtag() {
-            dataLayer.push(arguments)
-        }
-        window.dataLayer = window.dataLayer || [], gtag("js", new Date), gtag("config", "G-JCJF55E8L0")
-    </script>
-    <title>Exposición Mujer y Guardia Civil</title>
-    <meta charset="utf-8">
-    <meta name="description" content="La exposición Mujer y Guardia Civil trata de dar visibilidad a la mujer en todos los ámbitos de la sociedad.">
-    <link rel="stylesheet" href="iconomg/estilomg.css">
-    <link rel="stylesheet" href="iconomg/demo-files/demo.css">
-    <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no">
-    <meta name="google-site-verification" content="2pIHP8oSI0_3DgX77WMpe_lFbb1GkLmDUpl2FamDEi4">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="stylesheet" href="assets/css/main.css">
-    <link rel="stylesheet" href="assets/css/style.css">
-    <link rel="shortcut icon" href="favicon.png"><noscript><link rel="stylesheet" href="assets/css/noscript.css"></noscript>
-    <link rel="stylesheet" href="fontawesome-free-6.2.0-web/css/all.css">
-</head>
+    if (isiPad) {
+        var images = document.querySelectorAll("img");
 
-<body>
-    <div id="particles-js" style="position:fixed;top:0;left:0;width:100%;height:100%;pointer-events:none;z-index:9999"></div>
-    <div id="video-container"><video id="greeting-video" controls><source src="Feliz Navidad.mp4" type="video/mp4">Su navegador no soporta el elemento de vídeo.</video></div>
-    <header class="is-preload" id="header">
-        <div class="titulo">
-            <h1>Comisarias Exposición Mujer y Guardia Civil</h1>
-        </div>
-        <div class="titulonav">
-            <nav>
-                <ul>
-                    <li><a href="#intro">Introducción</a></li>
-                    <li><a href="#one">Qué hacemos</a></li>
-                    <li><a href="#two">Quiénes somos</a></li>
-                    <li><a href="#work">Nuestro trabajo</a></li>
-                    <li class="dropdown"><a href="javascript:void(0)" class="dropbtn" style="color:green"><strong>Exposición</strong></a>
-                        <div class="dropdown-content"><a href="https://mujeryguardiacivil.great-site.net/exposici%C3%B3n/index.html" target="_blank">Navaleno</a><a href="https://mujeryguardiacivil.great-site.net/Trabajos/index.html" target="_blank">Soria</a><a href="https://mujeryguardiacivil.great-site.net/Burgos/index.html"
-                                target="_blank">Burgos</a><a href="https://mujeryguardiacivil.great-site.net/Mujeres%20de%20Uniforme/index.html" target="_blank">Huesca</a></div>
-                    </li>
-                    <li><a href="vídeos/index.html" style="color:#c4302b" target="_blank"><strong>Youtube</strong></a></li>
-                    <li><a href="#contact">Contacto</a></li>
-                </ul>
-            </nav>
-        </div>
-    </header>
-    <section id="intro" class="main style1 dark fullscreen">
-        <div class="content">
-            <header>
-                <h2>Mujer y Guardia Civil</h2>
-            </header>
-            <p>Bienvenido/a la<strong>web de mujeryguardiacivil</strong><br>Página<strong>AUTORIZADA,NO OFICIAL.</strong><br>No expresa opiniones oficiales ni representa a la Institución.</p>
-            <footer><a href="#one" class="button style2 down">More</a></footer>
-        </div>
-        <div class="container-buttons"><a href="https://www.facebook.com/profile.php?id=100067822862086" target="_blank" class="one"></a><a href="https://twitter.com/mujerygc" target="_blank" class="two"></a><a href="https://www.instagram.com/mujer_y_guardia_civil/?hl=es" target="_blank"
-                class="three"></a><a href="https://www.tiktok.com/@mujeryguardiacivil" target="_blank" class="four"></a>
-            <div class="dropdown-vertical contenedorbotones"><a href="javascript:void(0)" class="icon-log_mujeryguardiacivil"></a>
-                <div class="dropdowncontent"><a href="https://mujeryguardiacivil.great-site.net/exposici%C3%B3n/index.html" style="margin:.16em;background-color:#ad1519" class="icon-log_mujeryguardiacivil" target="_blank">Navaleno</a><a href="https://mujeryguardiacivil.great-site.net/Trabajos/index.html"
-                        style="margin:.16em;background-color:#fabd00" class="icon-log_mujeryguardiacivil" target="_blank">Soria</a><a href="https://mujeryguardiacivil.great-site.net/Burgos/index.html" style="margin:.16em;background-color:#fabd00" class="icon-log_mujeryguardiacivil"
-                        target="_blank">Burgos</a><a href="https://mujeryguardiacivil.great-site.net/Mujeres%20de%20Uniforme/index.html" style="margin:.16em;background-color:#ad1519" class="icon-log_mujeryguardiacivil" target="_blank">Huesca</a></div>
-            </div><a href="vídeos/index.html" target="_blank" class="six"></a><a href="mailto:mujeryguardiacivil@hotmail.com" target="_blank" class="five"></a></section>
-    <section id="one" class="main style2 from-right dark fullscreen">
-        <div class="content box style2">
-            <header>
-                <h2>Qué hacemos</h2>
-            </header>
-            <p class="text-align-justify">Damos a conocer a la Guardia Civil a través de las profesionales del cuerpo con la exposición y las redes sociales de "Mujer y Guardia Civil".</p>
-        </div><a href="#two" class="button style2 down anchored">Next</a></section>
-    <section id="two" class="main style2 from-left dark fullscreen">
-        <div class="content box style2">
-            <header>
-                <h2>Quiénes somos</h2>
-            </header>
-            <p class="text-align-justify">Somos dos mujeres que ingresamos muy jóvenes en la Academia de la Guardia Civil,llenas de ilusión y con esperanzas de un futuro mejor.</p>
-        </div><a href="#work" class="button style2 down anchored">Next</a></section>
-    <section id="work" class="main style3 primary">
-        <div class="content">
-            <header>
-                <h2>Nuestro trabajo</h2>
-                <p class="text-align-justify">En el año 2013 decidimos altruistamente dedicar parte de nuestro tiempo libre a dar visibilidad a las mujeres guardias civiles,al principio con la exposición itinerante "Mujer y Guardia Civil",y después a través de las redes sociales.
-                    Desde entonces y hasta noviembre de 2018 hemos llevado la exposición por diferentes lugares de España. Actualmente la exposición se puede visitar<b>gratuitamente</b>en Navaleno(Soria),Sala Histórica Mujeres de Uniforme de la Asociación
-                    Retógenes,primera y única a nivel mundial dedicada a las mujeres guardias civiles y militares. Podéis ver una pequeña muestra en el siguiente<a href="https://mujeryguardiacivil.great-site.net/exposici%C3%B3n1/index.html" target="_blank"
-                        style="color:red"><b>enlace</b></a>,y si os interesa también podéis acceder a los últimos trabajos de la exposición<a href="https://mujeryguardiacivil.great-site.net/Mujeres%20de%20Uniforme/index.html" target="_blank" style="color:red"><b>"Mujeres de Uniforme"</b></a>en
-                    el Palacio de Villahermosa(Huesca). Para más información y concertar visitas enviar correo pinchando aquí<a href="mailto:info@retogenes.es"><img src="images/thumbs/correo.png" alt="correo"></a>.</p>
-            </header>
-            <div class="gallery">
-                <article class="from-left"><a href="images/fulls/05.jpg" class="image fit"><img src="images/thumbs/05.jpg" title="La reina Letizia con las comisarias de la Exposición Mujer y Guardia Civil" alt></a></article>
-                <article class="from-right"><a href="images/fulls/01.jpg" class="image fit"><img src="images/thumbs/01.jpg" title="Exposición organizada con motivo del 30º aniversario del ingreso de la mujer en la Guardia Civil" alt></a></article>
-                <article class="from-left"><a href="images/fulls/19.jpg" class="image fit"><img src="images/thumbs/19.jpg" title="Mujeres de la Guardia Civil charlando con la reina Letizia" alt></a></article>
-                <article class="from-right"><a href="images/fulls/07.jpg" class="image fit"><img src="images/thumbs/07.jpg" title="La reina Letizia visita la Exposición Mujer y Guardia Civil" alt></a></article>
-                <article class="from-left"><a href="images/fulls/08.jpg" class="image fit"><img src="images/thumbs/08.jpg" title="La reina charlando durante la visita a la exposición" alt></a></article>
-                <article class="from-right"><a href="images/fulls/03.jpg" class="image fit"><img src="images/thumbs/03.jpg" title="Exposición en San José de Valderas, Alcorcón, Madrid" alt></a></article>
-                <article class="from-left"><a href="images/fulls/06.jpg" class="image fit"><img src="images/thumbs/06.jpg" title="Exposición en San José de Valderas, Alcorcón, Madrid" alt></a></article>
-                <article class="from-right"><a href="images/fulls/09.jpg" class="image fit"><img src="images/thumbs/09.jpg" title="Servicio Cinológico Guardia Civil" alt></a></article>
-                <article class="from-left"><a href="images/fulls/11.jpg" class="image fit"><img src="images/thumbs/11.jpg" title="Cartel exposición" alt></a></article>
-                <article class="from-right"><a href="images/fulls/12.jpg" class="image fit"><img src="images/thumbs/12.jpg" title="Escuadrón de la G.C." alt></a></article>
-                <article class="from-left"><a href="images/fulls/13.jpg" class="image fit"><img src="images/thumbs/13.jpg" title="Comisarias en la exposición de Alcorcón" alt></a></article>
-                <article class="from-right"><a href="images/fulls/10.jpg" class="image fit"><img src="images/thumbs/10.jpg" title="Primeros uniformes de la mujer G.C." alt></a></article>
-                <article class="from-left"><a href="images/fulls/14.jpg" class="image fit"><img src="images/thumbs/14.jpg" title="Collage fotográfico" alt></a></article>
-                <article class="from-right"><a href="images/fulls/20.jpg" class="image fit"><img src="images/thumbs/20.jpg" title="Comisaria en la exposición en el castillo de Carchuna, Granada" alt></a></article>
-                <article class="from-left"><a href="images/fulls/15.jpg" class="image fit"><img src="images/thumbs/15.jpg" title="Exposición de San Juan del Puerto, Huelva" alt></a></article>
-                <article class="from-right"><a href="images/fulls/21.jpg" class="image fit"><img src="images/thumbs/21.jpg" title="Comisaria en la exposición de San Juan del Puerto, Huelva" alt></a></article>
-                <article class="from-left"><a href="images/fulls/17.jpg" class="image fit"><img src="images/thumbs/17.jpg" title="Exposición Mujer y Guardia Civil en Leganés" alt></a></article>
-                <article class="from-right"><a href="images/fulls/18.jpg" class="image fit"><img src="images/thumbs/18.jpg" title="Comisaria Exposición Leganés" alt></a></article>
-                <article class="from-left"><a href="images/fulls/02.jpg" class="image fit"><img src="images/thumbs/02.jpg" title="Exposición en los Corrales de Buelnas, Cantabria" alt></a></article>
-                <article class="from-right"><a href="images/fulls/22.jpg" class="image fit"><img src="images/thumbs/22.jpg" title="Alumna en la academia de Baeza de la Guardia Civil" alt></a></article>
-                <article class="from-left"><a href="images/fulls/16.jpg" class="image fit"><img src="images/thumbs/16.jpg" title="Comisaria en la sala de los Regulares en Navaleno" alt></a></article>
-                <article class="from-right"><a href="images/fulls/23.jpg" class="image fit"><img src="images/thumbs/23.jpg" title="Exposición permanente en Navaleno, Soria" alt></a></article>
-                <article class="from-left"><a href="images/fulls/04.jpg" class="image fit"><img src="images/thumbs/04.jpg" title="Exposición en San José de Valderas, Alcorcón, Madrid" alt></a></article>
-                <article class="from-right"><a href="images/fulls/24.jpg" class="image fit"><img src="images/thumbs/24.jpg" title="Sala histórica de Muejeres Uniformadas en Navaleno, Soria" alt></a></article>
-            </div>
-        </div>
-    </section>
-    <section id="contact" class="main style3 secondary">
-        <div class="content">
-            <header>
-                <h2>Dinos lo que quieras.</h2>
-                <p>Tus valoraciones nos ayudarán a dar mayor visibilidad a la mujer en cualquier ámbito de la sociedad.</p>
-            </header>
-            <div class="box">
-                <form action="contact.php" method="post" accept-charset="ISO-8859-1">
-                    <div class="fields">
-                        <div class="field half"><input type="text" name="nombre" placeholder="Nombre" pattern="^[a-zA-ZÀ-ÿ\u00f1\u00d1]+(\s*[a-zA-ZÀ-ÿ\u00f1\u00d1]*)*[a-zA-ZÀ-ÿ\u00f1\u00d1]+$" required></div>
-                        <div class="field half"><input type="email" name="correo" placeholder="Correo"></div>
-                        <div class="field"><textarea name="mensaje" placeholder="Mensaje" pattern="^[a-zA-ZÀ-ÿ\u00f1\u00d1]+(\s*[a-zA-ZÀ-ÿ\u00f1\u00d1]*)*[a-zA-ZÀ-ÿ\u00f1\u00d1]+$" required rows="6"></textarea></div>
-                    </div>
-                    <ul class="actions special">
-                        <li><input type="submit" value="Envía el mensaje"></li>
-                    </ul>
-                </form>
-            </div>
-        </div>
-    </section>
-    <footer id="footer">
-        <ul class="icons">
-            <li><a href="https://twitter.com/mujerygc" target="_blank" class="icon brands fa-twitter fa-2x"><span class="label">Twitter</span></a></li>
-            <li><a href="https://www.facebook.com/Mujer-y-Guardia-Civil-423612444498014" target="_blank" class="icon brands fa-facebook-f fa-2x"><span class="label">Facebook</span></a></li>
-            <li><a href="https://www.instagram.com/mujer_y_guardia_civil/?hl=es" target="_blank" class="icon brands fa-instagram fa-2x"><span class="label">Instagram</span></a></li>
-        </ul>
-        <ul class="menu">
-            <h1>Puedes seguirnos en nuestras redes sociales</h1>
-        </ul>
-    </footer>
-    <script src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
-    <script src="assets/js/jquery.min.js"></script>
-    <script src="assets/js/jquery.poptrox.min.js"></script>
-    <script src="assets/js/jquery.scrolly.min.js"></script>
-    <script src="assets/js/jquery.scrollex.min.js"></script>
-    <script src="assets/js/browser.min.js"></script>
-    <script src="assets/js/breakpoints.min.js"></script>
-    <script src="assets/js/util.js"></script>
-    <script src="assets/js/main.js"></script>
-    <script src="assets/js/index.js"></script>
-    <script src="demo-files/demo.js"></script>
-    <script src="assets/js/nieve.js"></script>
-</body>
+        images.forEach(function (img) {
+            if (img.src.match(/^\/images\/(intro|one|two)\.jpg$/)) {
+                img.classList.add('ipad-image');
+            }
+        });
+    }
+}
 
-</html>
+window.addEventListener('resize', adjustImagesForiPad);
+document.addEventListener('DOMContentLoaded', adjustImagesForiPad);
+</script></body></html>
